@@ -1,6 +1,5 @@
 // ============================================================================
 // CrowdStrike Falcon — Auto-install + Drift-Heal Policy (VM + optional VMSS)
-// Benjamin-ready: robust, scalable, secure (no raw secrets), with auto-updates.
 // ============================================================================
 
 targetScope = 'subscription'
